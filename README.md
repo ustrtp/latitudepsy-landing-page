@@ -1,1 +1,0 @@
-# latitudepsy-landing-page
