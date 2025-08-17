@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ustrtp.github.io/sitemap-index.xml
+Sitemap: https://ustrtp.github.io/latitudepsy-landing-page/sitemap-index.xml
 Host: https://ustrtp.github.io
